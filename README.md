@@ -1,6 +1,6 @@
-# fitness
+# Fitness App
 
-A new Flutter project.
+A new Flutter Fitness App With Lot of Features !
 
 ## Getting Started
 
