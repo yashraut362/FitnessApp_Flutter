@@ -8,6 +8,9 @@ import 'package:intro_slider/intro_slider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:intro_slider/slide_object.dart';
 
+
+#new_intro
+
 class Alpha extends StatelessWidget {
   static const String id = 'Alpha';
   @override
