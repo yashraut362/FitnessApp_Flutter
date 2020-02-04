@@ -51,3 +51,5 @@ Package- https://pub.dev/packages/intro_slider
 
 Ohh ! You Made it Till Here ! 
 If you liked my work, don’t forget to ⭐ star the repo to show your support.
+
+Better Version of this App is now avaliable at := https://github.com/yashraut362/Fitness-App
