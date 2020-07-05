@@ -1,7 +1,10 @@
 # Fitness App
 
 A new Flutter Fitness App With Lot of Features !
-
+contributor :-
+@sachukundar
+@Nix2008
+@barkenikhil02
 # Screenshots
 ## 1. Introduction
 
