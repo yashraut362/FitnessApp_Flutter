@@ -2,9 +2,9 @@
 
 A new Flutter Fitness App With Lot of Features !
 contributor :-
-@sachukundar
+[@sachukundar](https://github.com/sachukundar)
 [@Nix2008](https://github.com/Nix2008)
-@barkenikhil02
+[@barkenikhil02](https://github.com/barkenikhil02)
 # Screenshots
 ## 1. Introduction
 
